@@ -1,4 +1,4 @@
 CREATE DATABASE chatapp;
-CREATE USER Bhushan WITH PASSWORD 'Bhushan123';
+CREATE USER postgres WITH PASSWORD 'Bhushan123';
 GRANT ALL PRIVILEGES ON DATABASE "chatapp" to postgres;
 
